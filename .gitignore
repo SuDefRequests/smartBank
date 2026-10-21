@@ -1,0 +1,17 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# SQLite runtime database
+smartbank.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
